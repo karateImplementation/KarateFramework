@@ -84,5 +84,10 @@
     <orderEntry type="library" scope="TEST" name="Maven: com.intuit.karate:karate-apache:0.9.6" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.apache.httpcomponents:httpmime:4.5.12" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: com.intuit.karate:karate-junit4:1.4.0.RC3" level="project" />
+    <orderEntry type="library" name="Maven: com.github.javafaker:javafaker:1.0.2" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.commons:commons-lang3:3.5" level="project" />
+    <orderEntry type="library" name="Maven: org.yaml:snakeyaml:android:1.23" level="project" />
+    <orderEntry type="library" name="Maven: com.github.mifmif:generex:1.0.2" level="project" />
+    <orderEntry type="library" name="Maven: dk.brics.automaton:automaton:1.11-8" level="project" />
   </component>
 </module>
